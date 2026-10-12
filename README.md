@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Abdulaziz 👋
 
-<!--
-**AzizObj/AzizObj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year student focused on **Cloud & DevOps**.
+I'm building cloud-native projects on AWS and learning how to ship software reliably with automation.
 
-Here are some ideas to get you started:
+## 🛠️ Tech I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Tech](https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,linux,git,python,ts&theme=dark)
+
+## 🚀 What I'm working on
+
+- Building a cloud-native microservices project with Kubernetes & Terraform
+- Studying for AWS certifications
+- Learning CI/CD best practices with GitHub Actions
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Aziz-Alanazi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Azizz.Alanazi@gmail.com)
